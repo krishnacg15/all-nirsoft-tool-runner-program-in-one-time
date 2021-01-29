@@ -1,10 +1,10 @@
 # all-nirsoft-tool-runner-program-in-one-time
 this program can run all nirsoft utilityes at one time
 this is the program
-in [] brackets the program has been written
+in {} brackets the program has been written
 remember dont copy the brackets
 
-[
+{
 @echo off
 color 02
 start wul.exe /stext wul.txt
@@ -244,7 +244,7 @@ start altstreamdump.exe /stext altstreamdump.txt
 start alternatestreamview.exe /stext alternatestreamview.txt
 start allthreadsview.exe /stext allthreadsview.txt
 start advancedrun.exe /stext advancedrun.txt
-]
+}
 
 
 save the program as run.bat
